@@ -4,7 +4,7 @@
 
 > 🇷🇺 версия: [README.ru.md](README.ru.md)
 
-Action-based robotics framework developed by **FTC Team “xCellence” (28300)**.
+Action-based robotics framework developed by **FTC Team “xCellence” #28300**.
 
 xACT provides a simple and reliable way to build robot missions using **composable actions**
 with **sequential and parallel execution**, without blocking code or complex state machines.
@@ -42,7 +42,7 @@ and maintainable mission logic.
 ## Credits
 
 **xACT — Action Composition Toolkit**  
-Developed by **FTC Team “xCellence” (28300)**
+Developed by **FTC Team “xCellence” #28300**
 
 If you use this framework, please credit:  
-*xACT by FTC Team “xCellence” (28300)*
+*xACT by FTC Team “xCellence” #28300*
