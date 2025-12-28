@@ -25,7 +25,7 @@ Actions:
 Actions can be composed into **sequences** and **parallel groups** to build clear
 and maintainable mission logic.
 
-![Action Lifecycle](images/action_lifecycle.png)
+![Action Lifecycle](https://lh3.googleusercontent.com/pw/AP1GczNqezDOXUzcrkP6RAvzna0RXF2N9e2q1V9_6PnwzLyzuhcGhiQMBvi_UczZpoN9oPHGJAd8JXL95QbWQJftHI1U3JlmdMnoDk-RHYN4v061Uzkz2ySRrm7GLgZOBDsALdtt2HxIXF2oHp-lJvXJQx0w=w1143-h406-s-no-gm?authuser=0)
 
 ---
 
